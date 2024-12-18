@@ -1,10 +1,26 @@
-# React list of goods (Hooks)
+# List of Goods (Hooks)
 
-Reimplement the **React list of goods** implemented before using hooks and typescript.
-Copy everything you need from your previous solution.
+### Description
 
-- Use `enum SortType` instead of string literals for possible sorting options (including the default one)
+- Reimplemented the [React List of Goods](https://github.com/AndriiZakharenko/list-of-goods) using hooks and typescript
 
-- ## Demo Links
+### Stack
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react_list-of-goods-hooks/)
+- HTML (BEM)
+- CSS (Bulma)
+- JS
+- Typescript
+- React
+- ReactDOM
+
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Babel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/list-of-goods-hooks/)
